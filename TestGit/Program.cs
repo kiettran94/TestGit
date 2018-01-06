@@ -12,6 +12,7 @@ namespace TestGit
         {
             //Comment test
             System.Console.WriteLine("Hello World !");
+            System.Console.WriteLine("What is your name ?");
         }
     }
 }
